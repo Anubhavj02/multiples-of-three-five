@@ -12,6 +12,6 @@ A simple python program to print numbers from 1 to 100 with following conditions
 $ python show_multiples.py
 ```
 ## Output
-
+![alt text](https://github.com/Anubhavj02/multiples-of-three-five/blob/master/output/output1.png “output”)
 
 
